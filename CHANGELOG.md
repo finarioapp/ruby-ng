@@ -1,6 +1,11 @@
 Changes
 =======
 
+0.3.1
+-----
+
+- Force the bundler version to 2.3.26
+
 0.3.0
 -----
 

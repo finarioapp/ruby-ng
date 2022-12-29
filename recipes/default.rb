@@ -27,4 +27,5 @@ package "ruby#{node['ruby-ng']['ruby_version']}"
 gem_package 'bundler' do
   gem_binary '/usr/bin/gem'
   options '-n /usr/bin'
+  version '2.3.26'
 end
